@@ -1,0 +1,30 @@
+{
+  "name": "rv-qa-project",
+  "version": "1.0.0",
+  "description": "A suite of user tests using webdriver.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-Voss/RV-QA-Project.git"
+  },
+  "keywords": [
+    "qa",
+    "webdriverio",
+    "end-to-end",
+    "user",
+    "testing"
+  ],
+  "author": "Stephen Voss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-Voss/RV-QA-Project/issues"
+  },
+  "homepage": "https://github.com/S-Voss/RV-QA-Project#readme",
+  "dependencies": {
+    "wdio-mocha-framework": "^0.5.11",
+    "webdriverio": "^4.8.0"
+  }
+}
